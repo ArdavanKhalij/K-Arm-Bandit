@@ -2,6 +2,9 @@
 
 This directory contains the implementation of a bandit (bandit.py), and the skeleton of a bandit learning program (main.py). The goal of this assignment is to implement learning rules in main.py so that the agent learns the bandit. The second goal is to learn fast: having the highest learning curve, or lowest cumulative regret, among the students doing this exercise, gives bonus points.
 
+## License
+This project is licensed under the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 The bandit
 ==========
 
